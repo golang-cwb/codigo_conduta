@@ -30,7 +30,7 @@ de comunicação podem falar sobre Go de maneira efetiva, produtiva e respeitáv
 O segundo objetivo é proporcionar um mecanismo para resolução de conflitos na comunidade quando este se fazer presente.
 
 O terceiro objetivo do Código de Conduta é tornar nossa comunidade receptiva à pessoas de diferentes especialidades. Diversidade é crítica para o projeto; 
-para o Go ser bem sucedido, necessita que seus contribuidores e usuários sejam de todas as especialidades. (Veja Go, Open Source, Community.)
+para o Go ser bem sucedido, necessita que seus contribuidores e usuários sejam de todas as especialidades. (Veja [Go, Open Source, Community](#https://blog.golang.org/open-source).)
 
 Nós acreditamos que o debate e desacordo saudáveis são essenciais para a saúde do projeto e comunidade. Contudo, ser desrespeitoso nunca será aceitável. Valorizamos diversas opiniões,
 mas valorizamos ainda mais comportamento respeito e boas maneiras.
@@ -41,7 +41,7 @@ Esses são os valores em que pessoas na comunidade Go ("Gopher") devem se inspir
 
 * Seja amigável e receptivo(a)
 * Seja paciente
-   * Lembre-se que pessoas possuem variados estilos de comunicação e não são todos utilizadores de suas linguas nativas. (Significado e tom podem ser perdidos      durante traduções).
+   * Lembre-se que pessoas possuem variados estilos de comunicação e não são todos utilizadores de suas linguas nativas. (Significado e tom podem ser perdidos durante traduções).
 * Seja compreensível
    * Comunicação produtiva requer esforço. Pense sobre como suas palavras serão interpretadas.
    * Lembre-se que às vezes é melhor se abster em direcionar certos comentários.
