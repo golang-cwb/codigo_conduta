@@ -4,11 +4,14 @@
 
 
 [Sobre](#sobre)&nbsp;
+
 [Valores Gopher](#valores-gopher)&nbsp;
-[Código de Conduta](#código-conduta)\
-> [Nosso Juramento](#nosso-juramento)\
-> [Nossos Padrões](#nossos-padr]oes)\
+
+[Código de Conduta](#código-conduta)&nbsp;
+> [Nosso Juramento](#nosso-juramento)&nbsp;
+> [Nossos Padrões](#nossos-padr]oes)&nbsp;
 > [Nossas Responsabilidades](#nossas-responsabilidades)&nbsp;
+
 [Escopo](#escopo)&nbsp;
 [Resolução de Conflito](#resolu%c3%a7%c3%a3o-de-conflito)&nbsp;
 [Atribuição](#atribui%c3%a7%c3%a3o)&nbsp;
