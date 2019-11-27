@@ -52,7 +52,7 @@ provocar, não se deixe levar. É de plena responsabilidade de todo(a)s desestim
 
 #### Nossos padrões
 
-  Exemplos de comportamentos que contribuem para criar um ambiente positivo incluem:  
+Exemplos de comportamentos que contribuem para criar um ambiente positivo incluem:  
    * Utilizar linguagem receptiva e inclusiva
    * Sendo respeitoso(a) com diferentes pontos de vista e experiências
    * Aceitando benevolentemente críticas construtivas
@@ -60,11 +60,11 @@ provocar, não se deixe levar. É de plena responsabilidade de todo(a)s desestim
    * Demonstrando empatia para com os demais membros da comunidade
   
 
-  Exemplos de comportamentos não aceitáveis pelos participantes incluem:
-    * Uso de linguagem sexualizada ou imagem imprópria para o contexto
-    * Cometendo atos de desrepeito, comentários contendo insultos bem como ataques pessoais e posicionamento político
-    * Assédio público ou privado
-    * Publicar informações privadas de outros membros, tais como endereço eletrônico, sem permissão explícita
+Exemplos de comportamentos não aceitáveis pelos participantes incluem:
+   * Uso de linguagem sexualizada ou imagem imprópria para o contexto
+   * Cometendo atos de desrepeito, comentários contendo insultos bem como ataques pessoais e posicionamento político
+   * Assédio público ou privado
+   * Publicar informações privadas de outros membros, tais como endereço eletrônico, sem permissão explícita
 
 #### Nossas responsabilidades
 
