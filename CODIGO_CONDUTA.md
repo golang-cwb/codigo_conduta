@@ -10,7 +10,7 @@
 [Código de Conduta](#codigo-conduta)
 > [Nosso Juramento](#nosso-juramento)\
 > [Nossos Padrões](#nossos-padroes)\
-> [Nossas Responsabilidades](#nossas-responsabilidades)\
+> [Nossas Responsabilidades](#nossas-responsabilidades)
 
 [Escopo](#escopo)
 
@@ -18,7 +18,7 @@
 
 [Atribuição](#atribui%c3%a7%c3%a3o)
 
-[Sumário](#sum%a3rio)
+[Sumário](#Sumário)
 
 
 
