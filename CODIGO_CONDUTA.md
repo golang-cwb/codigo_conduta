@@ -3,18 +3,16 @@
 
 
 
-[Sobre](#sobre)
-
-[Valores Gopher](#valores-gopher)
-
-[Código de Conduta](#código-conduta)
-...[Nosso Juramento](#nosso-juramento)\s
-...[Nossos Padrões](#nossos-padr]oes)\s
-...[Nossas Responsabilidades](#nossas-responsabilidades)\s
-[Escopo](#escopo)\s
-[Resolução de Conflito](#resolu%c3%a7%c3%a3o-de-conflito)\s
-[Atribuição](#atribui%c3%a7%c3%a3o)\s
-[Sumário](#sumário)\s
+[Sobre](#sobre)\
+[Valores Gopher](#valores-gopher)\
+[Código de Conduta](#código-conduta)\
+...[Nosso Juramento](#nosso-juramento)\
+...[Nossos Padrões](#nossos-padr]oes)\
+...[Nossas Responsabilidades](#nossas-responsabilidades)\
+[Escopo](#escopo)\
+[Resolução de Conflito](#resolu%c3%a7%c3%a3o-de-conflito)\
+[Atribuição](#atribui%c3%a7%c3%a3o)\
+[Sumário](#sumário)
 
 
 
