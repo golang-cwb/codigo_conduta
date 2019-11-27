@@ -58,6 +58,7 @@ provocar, não se deixe levar. É de plena responsabilidade de todo(a)s desestim
    * Aceitando benevolentemente críticas construtivas
    * Focando no que é melhor para a comunidade
    * Demonstrando empatia para com os demais membros da comunidade
+  
 
   Exemplos de comportamentos não aceitáveis pelos participantes incluem:
     * Uso de linguagem sexualizada ou imagem imprópria para o contexto
