@@ -70,6 +70,7 @@ Exemplos de comportamentos não aceitáveis pelos participantes incluem:
 
    Mantenedores de projetos são responsáveis por deixar claro so padrões de comportamento aceitpaveis e são esperados 
    agir de forma correta e justa quando a ocorrência de comportamentos inaceitáveis.
+   
    Mantenedores de projetos possuem o direito e responsabilidade de remover, editar, ou rejeitar comentários, commits,
    código, edições de páginas wiki, issues, e outras contribuições desalinhadas com este Código de Conduta, ou banir 
    temporariamente ou permanentemente qualquer contribuidor por outros comportamentos em suma inadequados, ameaçadores,
