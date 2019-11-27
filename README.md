@@ -1,6 +1,8 @@
-Codigo de Conduta - Comunidade Golang
+### Codigo de Conduta - Comunidade Golang
 
-Contribuidores
+
+
+### Contribuidores
 
 [@erikacarvalho](https://github.com/erikacarvalho)
 
@@ -8,9 +10,9 @@ Contribuidores
 
 [@alexrios](https://github.com/alexrios)
 
-[@Strepel](https://github.com/Strepel)
+[@Strepel](https://github.com/Streppel)
 
-[@jg19](https://github.com/jg10)
+[@jg19](https://github.com/jg19)
 
 [@pedroalvesbatista](https://github.com/pedroalvesbatista)
 
