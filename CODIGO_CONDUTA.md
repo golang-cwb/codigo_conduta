@@ -7,9 +7,9 @@
 
 [Valores Gopher](#valores-gopher)
 
-[Código de Conduta](#código-conduta)
+[Código de Conduta](#codigo-conduta)
 > [Nosso Juramento](#nosso-juramento)\
-> [Nossos Padrões](#nossos-padr]oes)\
+> [Nossos Padrões](#nossos-padroes)\
 > [Nossas Responsabilidades](#nossas-responsabilidades)\
 
 [Escopo](#escopo)
@@ -18,7 +18,7 @@
 
 [Atribuição](#atribui%c3%a7%c3%a3o)
 
-[Sumário](#sumário)
+[Sumário](#sumario)
 
 
 
