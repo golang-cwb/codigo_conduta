@@ -128,11 +128,8 @@ https://www.contributor-covenant.org/version/1/4/code-of-conduct.html.
 
 #### Sumário
 
-Trate todos com respeito e gentileza.
-
-Seja cauteloso em como se comunicar.
-
-Não seja destrutivo(a) ou inflamatório(a).
-
-Se encontrar um problema, por favor informe no e-mail conduct@golang.org.
+* Trate todos com respeito e gentileza.
+* Seja cauteloso em como se comunicar.
+* Não seja destrutivo(a) ou inflamatório(a).
+* Se encontrar um problema, por favor informe no e-mail conduct@golang.org.
 
