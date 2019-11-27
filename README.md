@@ -2,6 +2,12 @@
 
 
 
+Tradução realizada pela comunidade GolangCWB (Curitiba).
+
+
+
+
+
 ### Contribuidores
 
 [@erikacarvalho](https://github.com/erikacarvalho)
@@ -16,4 +22,4 @@
 
 [@pedroalvesbatista](https://github.com/pedroalvesbatista)
 
-Licença
+### Licença
