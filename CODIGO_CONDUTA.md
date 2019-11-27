@@ -37,8 +37,8 @@ Esses são os valores em que pessoas na comunidade Go ("Gopher") devem se inspir
    * Microagressões: breve e banal verbal, comportamental e indignidade ambiental que comunique hostilidade, sentimento negativo ou depreciativo dirigido
      à uma pessoa ou grupo.
      
-Pessoas são complicadas. Você deve esperar ser mal entendido e compreender mal outros(as); quando isso inevitavelmente ocorrer, resiste à tentação de ser     
-defensivo ou perpetrar culpa. Tente não enxergar ofensa onde não houve ou foi intencionada. Dê ás pessoas o benefício da dúvida. Mesmo se a intenção foi     
+Pessoas são complicadas. Você deve esperar ser mal entendido e compreender mal outros(as); quando isso inevitavelmente ocorrer, resiste à tentação de ser
+defensivo ou perpetrar culpa. Tente não enxergar ofensa onde não houve ou foi intencionada. Dê ás pessoas o benefício da dúvida. Mesmo se a intenção foi
 provocar, não se deixe levar. É de plena responsabilidade de todo(a)s desestimular e mediar conflitos quando forem criados.
 
 
