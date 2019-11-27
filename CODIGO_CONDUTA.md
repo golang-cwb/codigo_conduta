@@ -1,3 +1,16 @@
+[Sobre](#Sobre)
+[Valores Gopher]
+[Código de Conduta]
+  [Nosso Juramento]
+  [Nossos Padrões]
+  [Nossas Responsabilidades]
+[Escopo]
+[Resolução de Conflito]
+[Atribuição]
+[Sumário]
+
+
+
 ### Sobre
 Comunidades online incluem pessoas de diferentes especialidades e habilidades. Os contribuidores Go são inclinados a prover um ambiente amigavel, 
 seguro e acolhedor para todos, independente de identidade gênero e expressão, orientação sexual, inabilidades, neurodiversidade, aparência física,
@@ -44,13 +57,13 @@ provocar, não se deixe levar. É de plena responsabilidade de todo(a)s desestim
 
 ### Código de Conduta
 
-#### Nosso juramento 
+#### Nosso Juramento 
 
    No interesse de amparar um ambiente aberto e receptivo, nós como contribuidores e mantenedores juramos fazer a participação em nosso projeto e comunidade
    uma experiência livre de assédios para todos, independentemente de idade, proporção corporal, inabilidade, etnia, identidade de gênero e expressão, nível
    de experiência, educação, status sócio-econômico, nacionalidade, aparência pessoal, raça, religião, ou orientação e identidade sexual.
 
-#### Nossos padrões
+#### Nossos Padrões
 
 Exemplos de comportamentos que contribuem para criar um ambiente positivo incluem:  
    * Utilizar linguagem receptiva e inclusiva
@@ -66,7 +79,7 @@ Exemplos de comportamentos não aceitáveis pelos participantes incluem:
    * Assédio público ou privado
    * Publicar informações privadas de outros membros, tais como endereço eletrônico, sem permissão explícita
 
-#### Nossas responsabilidades
+#### Nossas Responsabilidades
 
    Mantenedores de projetos são responsáveis por deixar claro so padrões de comportamento aceitpaveis e são esperados 
    agir de forma correta e justa quando a ocorrência de comportamentos inaceitáveis.
