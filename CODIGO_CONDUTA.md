@@ -32,7 +32,7 @@ Esses são os valores em que pessoas na comunidade Go ("Gopher") devem se inspir
 * Evite comportamento destrutivo
    * Desviando-se do foco: permaneça no tópico; se deseja falar sobre qualquer outro assunto, inicie uma nova conversa.
    * Criticismo não-construtivo : não condene precipitadamente os assuntos; ofereça ou ao menos solicite sugestões de como as coisas deveriam ser melhoradas.
-#### * Snarking (pithy, unproductive, sniping comments) - necessita revisão de contexto das palavras
+   * Snarking (pithy, unproductive, sniping comments) - necessita revisão de contexto das palavras
    * Discutir questões sensíveis  ou potencialmente ofensivas; tudo leva a conflitos desnecessários.
    * Microagressões: breve e banal verbal, comportamental e indignidade ambiental que comunique hostilidade, sentimento negativo ou depreciativo dirigido
      à uma pessoa ou grupo.
