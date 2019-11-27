@@ -19,7 +19,7 @@ mas valorizamos ainda mais comportamento respeito e boas maneiras.
 Esses são os valores em que pessoas na comunidade Go ("Gopher") devem se inspirar.
 
 * Seja amigável e receptivo(a)
-   * Seja paciente
+* Seja paciente
    * Lembre-se que pessoas possuem variados estilos de comunicação e não são todos utilizadores de suas linguas nativas. (Significado e tom podem ser perdidos      durante traduções).
 
 * Seja compreensível
@@ -60,32 +60,30 @@ Esses são os valores em que pessoas na comunidade Go ("Gopher") devem se inspir
     
     
     
-        Utilizar linguagem receptiva e inclusiva
-        Sendo respeitoso(a) com diferentes pontos de vista e experiências
-        Aceitando benevolentemente críticas construtivas
-        Focando no que é melhor para a comunidade
-        Demonstrando empatia para com os demais membros da comunidade
+        * Utilizar linguagem receptiva e inclusiva
+        * Sendo respeitoso(a) com diferentes pontos de vista e experiências
+        * Aceitando benevolentemente críticas construtivas
+        * Focando no que é melhor para a comunidade
+        * Demonstrando empatia para com os demais membros da comunidade
 
     Exemplos de comportamentos não aceitáveis pelos participantes incluem:
 
 
-        Uso de linguagem sexualizada ou imagem imprópria para o contexto
-        Cometendo atos de desrepeito, comentários contendo insultos bem como ataques pessoais e posicionamento político
-        Assédio público ou privado
-        Publicar informações privadas de outros membros, tais como endereço eletrônico, sem permissão explícita
+        * Uso de linguagem sexualizada ou imagem imprópria para o contexto
+        * Cometendo atos de desrepeito, comentários contendo insultos bem como ataques pessoais e posicionamento político
+        * Assédio público ou privado
+        * Publicar informações privadas de outros membros, tais como endereço eletrônico, sem permissão explícita
 
 
 
-        #### Nossas responsabilidades
+#### Nossas responsabilidades
 
-
-           Mantenedores de projetos são responsáveis por deixar claro so padrões de comportamento aceitpaveis e são esperados 
-           agir de forma correta e justa quando a ocorrência de comportamentos inaceitáveis.
-
-           Mantenedores de projetos possuem o direito e responsabilidade de remover, editar, ou rejeitar comentários, commits,
-           código, edições de páginas wiki, issues, e outras contribuições desalinhadas com este Código de Conduta, ou banir 
-           temporariamente ou permanentemente qualquer contribuidor por outros comportamentos em suma inadequados, ameaçadores,
-           ofensivos, assim como danosos e perigosos.
+   Mantenedores de projetos são responsáveis por deixar claro so padrões de comportamento aceitpaveis e são esperados 
+   agir de forma correta e justa quando a ocorrência de comportamentos inaceitáveis.
+   Mantenedores de projetos possuem o direito e responsabilidade de remover, editar, ou rejeitar comentários, commits,
+   código, edições de páginas wiki, issues, e outras contribuições desalinhadas com este Código de Conduta, ou banir 
+   temporariamente ou permanentemente qualquer contribuidor por outros comportamentos em suma inadequados, ameaçadores,
+   ofensivos, assim como danosos e perigosos.
 
 
 #### Escopo
