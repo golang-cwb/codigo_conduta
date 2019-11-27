@@ -29,7 +29,7 @@ Esses são os valores em que pessoas na comunidade Go ("Gopher") devem se inspir
 * Seja caridoso(a)
     * Interprete os argumentos de outros de boa fé, não antecipando o desacordo.
     * Quando discordamos, tentamos entender o por quê.
-* Evite comportamento destrutivo
+* Evite comportamento destrutivo:
    * Desviando-se do foco: permaneça no tópico; se deseja falar sobre qualquer outro assunto, inicie uma nova conversa.
    * Criticismo não-construtivo : não condene precipitadamente os assuntos; ofereça ou ao menos solicite sugestões de como as coisas deveriam ser melhoradas.
    * Snarking (pithy, unproductive, sniping comments) - necessita revisão de contexto das palavras
@@ -44,18 +44,16 @@ provocar, não se deixe levar. É de plena responsabilidade de todo(a)s desestim
 
 ### Código de Conduta
 
-  #### Nosso juramento 
+#### Nosso juramento 
 
-    No interesse de amparar um ambiente aberto e receptivo, nós como contribuidores e mantenedores juramos fazer a participação em nosso projeto e comunidade
-    uma experiência livre de assédios para todos, independentemente de idade, proporção corporal, inabilidade, etnia, identidade de gênero e expressão, nível
-    de experiência, educação, status sócio-econômico, nacionalidade, aparência pessoal, raça, religião, ou orientação e identidade sexual.
+   No interesse de amparar um ambiente aberto e receptivo, nós como contribuidores e mantenedores juramos fazer a participação em nosso projeto e comunidade
+   uma experiência livre de assédios para todos, independentemente de idade, proporção corporal, inabilidade, etnia, identidade de gênero e expressão, nível
+   de experiência, educação, status sócio-econômico, nacionalidade, aparência pessoal, raça, religião, ou orientação e identidade sexual.
 
 #### Nossos padrões
 
-    Exemplos de comportamentos que contribuem para criar um ambiente positivo incluem:
-    
-    
-    
+   Exemplos de comportamentos que contribuem para criar um ambiente positivo incluem:
+       
         * Utilizar linguagem receptiva e inclusiva
         * Sendo respeitoso(a) com diferentes pontos de vista e experiências
         * Aceitando benevolentemente críticas construtivas
@@ -64,13 +62,10 @@ provocar, não se deixe levar. É de plena responsabilidade de todo(a)s desestim
 
     Exemplos de comportamentos não aceitáveis pelos participantes incluem:
 
-
         * Uso de linguagem sexualizada ou imagem imprópria para o contexto
         * Cometendo atos de desrepeito, comentários contendo insultos bem como ataques pessoais e posicionamento político
         * Assédio público ou privado
         * Publicar informações privadas de outros membros, tais como endereço eletrônico, sem permissão explícita
-
-
 
 #### Nossas responsabilidades
 
