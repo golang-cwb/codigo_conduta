@@ -5,7 +5,7 @@
 
 [Sobre](#sobre)\
 [Valores Gopher](#valores-gopher)\
-[Código de Conduta](#codigo-conduta)
+[Código de Conduta](#código-de-conduta)
 > [Nosso Juramento](#nosso-juramento)\
 > [Nossos Padrões](#nossos-padrões)\
 > [Nossas Responsabilidades](#nossas-responsabilidades)
@@ -134,6 +134,7 @@ poderemos prosseguir sem aviso prévio.
 Esse Código de Conduta foi adaptado a partir do Contributor Covenant, versão 1.4, disponível em
 https://www.contributor-covenant.org/version/1/4/code-of-conduct.html.
 
+Versão original do Código de Conduta pode ser encontrada em https://golang.org/conduct.
 
 
 #### Sumário
