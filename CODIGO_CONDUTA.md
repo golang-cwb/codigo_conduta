@@ -6,9 +6,9 @@
 [Sobre](#sobre)\
 [Valores Gopher](#valores-gopher)\
 [Código de Conduta](#código-conduta)\
-...[Nosso Juramento](#nosso-juramento)\
-...[Nossos Padrões](#nossos-padr]oes)\
-...[Nossas Responsabilidades](#nossas-responsabilidades)\
+   [Nosso Juramento](#nosso-juramento)\
+   [Nossos Padrões](#nossos-padr]oes)\
+   [Nossas Responsabilidades](#nossas-responsabilidades)\
 [Escopo](#escopo)\
 [Resolução de Conflito](#resolu%c3%a7%c3%a3o-de-conflito)\
 [Atribuição](#atribui%c3%a7%c3%a3o)\
