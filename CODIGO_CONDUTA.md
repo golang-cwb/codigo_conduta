@@ -20,12 +20,12 @@
 
 
 ### Sobre
-Comunidades online incluem pessoas de diferentes especialidades e habilidades. Os contribuidores Go são inclinados a prover um ambiente amigavel, 
-seguro e acolhedor para todos, independente de identidade gênero e expressão, orientação sexual, inabilidades, neurodiversidade, aparência física,
+Comunidades online incluem pessoas de diferentes especialidades e habilidades. Os contribuidores Go são inclinados a prover um ambiente amigável, 
+seguro e acolhedor para todos, independente de identidade de gênero e expressão, orientação sexual, inabilidades, neurodiversidade, aparência física,
 porte corporal, etnicidade, nacionalidade, raça, idade, religião ou características pessoais similares.
 
-O primeiro objetivo do Código de Conduta é especificar o padrão base de comportamento de modo que pessoas com diferentes valores social and estilos
-de comunicação podem falar sobre Go de maneira efetiva, produtiva e respeitável.
+O primeiro objetivo do Código de Conduta é especificar o padrão base de comportamento de modo que pessoas com diferentes valores sociais e estilos
+de comunicação possam falar sobre Go de maneira efetiva, produtiva e respeitável.
 
 O segundo objetivo é proporcionar um mecanismo para resolução de conflitos na comunidade quando este se fazer presente.
 
@@ -41,7 +41,7 @@ Esses são os valores em que pessoas na comunidade Go ("Gopher") devem se inspir
 
 * Seja amigável e receptivo(a)
 * Seja paciente
-   * Lembre-se que pessoas possuem variados estilos de comunicação e não são todos utilizadores de suas linguas nativas. (Significado e tom podem ser perdidos durante traduções).
+   * Lembre-se que pessoas possuem variados estilos de comunicação e não são todos utilizadores de suas línguas nativas. (Significado e tom podem ser perdidos durante traduções).
 * Seja compreensível
    * Comunicação produtiva requer esforço. Pense sobre como suas palavras serão interpretadas.
    * Lembre-se que às vezes é melhor se abster em direcionar certos comentários.
@@ -83,17 +83,17 @@ Exemplos de comportamentos que contribuem para criar um ambiente positivo inclue
 
 Exemplos de comportamentos não aceitáveis pelos participantes incluem:
    * Uso de linguagem sexualizada ou imagem imprópria para o contexto
-   * Cometendo atos de desrepeito, comentários contendo insultos bem como ataques pessoais e posicionamento político
+   * Cometendo atos de desrespeito, comentários contendo insultos bem como ataques pessoais e posicionamento político
    * Assédio público ou privado
    * Publicar informações privadas de outros membros, tais como endereço eletrônico, sem permissão explícita
 
 #### Nossas Responsabilidades
 
-   Mantenedores de projetos são responsáveis por deixar claro so padrões de comportamento aceitpaveis e são esperados 
-   agir de forma correta e justa quando a ocorrência de comportamentos inaceitáveis.
+   Mantenedores de projetos são responsáveis por deixar claro os padrões de comportamento aceitáveis e são esperados 
+   agir de forma correta e justa quanto a ocorrência de comportamentos inaceitáveis.
    
    Mantenedores de projetos possuem o direito e responsabilidade de remover, editar, ou rejeitar comentários, commits,
-   código, edições de páginas wiki, issues, e outras contribuições desalinhadas com este Código de Conduta, ou banir 
+   código, edições de páginas wiki, issues e outras contribuições desalinhadas com este Código de Conduta, ou banir 
    temporariamente ou permanentemente qualquer contribuidor por outros comportamentos em suma inadequados, ameaçadores,
    ofensivos, assim como danosos e perigosos.
 
@@ -115,7 +115,7 @@ Não acreditamos que todo conflito seja ruim; debate e discordância saudáveis 
 é aceitável desrespeito ou engajamento em comportamentos que violam o Código de Conduta do projeto.
 
 Caso presencie alguma violação do Código de Conduta, sinta-se à vontade para mediar diretamente com os envolvidos. Muitos problemas e atritos
-podem ser resolvidos facil e rapidamente, dando mais controle às pessoas sobre suas disputas e diferenças que possam surgir. Se não se sentir
+podem ser resolvidos fácil e rapidamente, dando mais controle às pessoas sobre suas disputas e diferenças que possam surgir. Se não se sentir
 confortável ou apto(a) a questão por algum motivo, ou se o comportamento dos demais denota alguma ameaça ou assédio, notifique. Estamos empenhados
 e dedicados a fornecer um ambiente onde participantes sintam-se bem-vindo(a)s e seguro(a)s.
 
